@@ -3,3 +3,4 @@
 
 Ezt a sort Kristof írta.
 Szerkeszti tovább Kristóf a fájlt.
+Kitti beleír a fájlba.
