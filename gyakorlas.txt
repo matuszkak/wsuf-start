@@ -1,0 +1,3 @@
+Ezt csak gyakorlás céljából írtam.
+Létrehoztam egy txt fájlt.
+
